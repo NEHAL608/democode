@@ -1,0 +1,9 @@
+{
+    "idf.adapterTargetName": "esp32s3",
+    "files.associations": {
+        "file.h": "c",
+        "main_driver.h": "c",
+        "dgus_lcd.h": "c",
+        "pin_config.h": "c"
+    }
+}
