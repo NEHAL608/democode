@@ -1,4 +1,4 @@
-# Multi Device Example
+# Main device BLE_client Example
 
 ## Build and Flash firmware
 
